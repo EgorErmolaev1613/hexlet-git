@@ -1,5 +1,2 @@
 No code No pain
-experiment with amend
-experiment with amend
-experiment with amend
-experiment with amend
+This is the test project to learn GitHub. I will be good! :))
